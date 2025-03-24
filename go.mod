@@ -1,4 +1,4 @@
-module github.com/DependencyTrack/client-go
+module github.com/EFR-GmbH/client-go
 
 go 1.19
 

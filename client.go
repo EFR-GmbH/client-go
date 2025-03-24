@@ -23,7 +23,7 @@ import (
 
 const (
 	DefaultTimeout   = 10 * time.Second
-	DefaultUserAgent = "github.com/DependencyTrack/client-go"
+	DefaultUserAgent = "github.com/EFR-GmbH/client-go"
 )
 
 type contextKey string
